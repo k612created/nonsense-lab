@@ -13,19 +13,19 @@
 不想秃头的同学们也可以去下载各个文件夹里头装的 **Windows 程序**，在自己电脑上随便造。
 ****
 ## 写出来了啥
-目前研究所就这么一个人 @k612created , 还在上初中，所以写出来的玩意不多，害有可能写出来的都不知道是啥玩意但就是能跑，还请大家伙多多体谅。
+目前研究所就这么一个人 [@k612created](https://github.com/k612created) , 还在上初中，所以写出来的玩意不多，害有可能写出来的都不知道是啥玩意但就是能跑，还请大家伙多多体谅。
 
 他现在整了这几个活：
 
 **GR**: 随机字符串生成器。
 
-咋用？[读我。](https://github.com/k612created/nonsense-lab/blob/master/gr/README_zh.md)
+咋用？[读我。](https://github.com/Nonsense-Lab/nonsense-lab/blob/master/gr/README_zh.md)
 
 ****
 
 **GR 加/解密工具**: 使用 **GR** 里头的算法实现加、解密操作。
 
-咋用？[读我。](https://github.com/k612created/nonsense-lab/blob/master/gr-encdecrypt/README_zh.md)
+咋用？[读我。](https://github.com/Nonsense-Lab/nonsense-lab/blob/master/gr-encdecrypt/README_zh.md)
 ****
 
 **吃派**: 在 \PI\ 里头找出你想要的数字串。
@@ -34,4 +34,4 @@
 
 ****
 ## 还整了啥
-[吃饱了撑研究所编译/运行指北](https://github.com/k612created/nonsense-lab/blob/master/compile_run_guide_zh.md)
+[吃饱了撑研究所编译/运行指北](https://github.com/Nonsense-Lab/nonsense-lab/blob/master/compile_run_guide_zh.md)
