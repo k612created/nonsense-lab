@@ -28,7 +28,7 @@
 咋用？[读我。](https://github.com/Nonsense-Lab/nonsense-lab/blob/master/gr-encdecrypt/README_zh.md)
 ****
 
-**吃派**: 在 \PI\ 里头找出你想要的数字串。
+**无情找派机(PiSearch)**: 在 \PI\ 里头找出你想要的数字串。
 
 咋用？[没写完呢。]
 
